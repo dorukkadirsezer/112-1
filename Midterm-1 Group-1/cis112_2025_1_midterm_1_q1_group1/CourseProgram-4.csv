@@ -1,0 +1,5 @@
+﻿CourseID,Section,Instructor,Type,Day,Time,Capacity,Building,Room
+ACM498,1,Çelik,LEC,Cumartesi,10:00-12:00,3,BBBF,online
+STAT410,2,Çelik,LEC,Cumartesi,10:00-12:00,3,BBBF,online
+CIS112,1,Bingöl,LEC,Pazartesi,10:00-12:00,3,BBBF,212
+CIS114,2,Kulan,LEC,Salı,10:00-12:00,3,BBBF,216
